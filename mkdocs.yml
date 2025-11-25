@@ -1,5 +1,5 @@
 site_name: carboxylBase
-site_url: https://carboxylbase.github.io/
+site_url: https://example.com
 
 nav:
   - 主页: 
@@ -27,7 +27,6 @@ nav:
 
 
 theme:
-  base_url: /carboxylBase/
   name: material
   palette:
     - scheme: default
